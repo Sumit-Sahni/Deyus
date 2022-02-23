@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Deyus/static/css/main.faf1e9ae.css",
+    "main.js": "/Deyus/static/js/main.76ad1f64.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Deyus/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Deyus/index.html",
+    "main.faf1e9ae.css.map": "/Deyus/static/css/main.faf1e9ae.css.map",
+    "main.76ad1f64.js.map": "/Deyus/static/js/main.76ad1f64.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Deyus/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faf1e9ae.css",
+    "static/js/main.76ad1f64.js"
+  ]
+}
